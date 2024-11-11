@@ -17,7 +17,7 @@ class pr5_pg191
         {
             a=b%10;
             System.out.println(a);
-            b=b%10;
+            b=b/10;
         }
     }
 }
